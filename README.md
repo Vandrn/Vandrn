@@ -91,8 +91,8 @@ Limpieza, análisis y preparación de datos con Python + SQL.
 ## 📊 Stats & Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanedrn03&show_icons=true&theme=calm" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanedrn03&layout=compact&theme=calm" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanedrn&show_icons=true&theme=calm" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanedrn&layout=compact&theme=calm" height="170"/>
 </p>
 
 ---
